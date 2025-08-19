@@ -41,6 +41,8 @@ The dataset mimics real HR data from Palmora Group and includes the following fi
 ---
 
 ## 📊 Dashboard Features
+![Screenshot 2025-07-09 082433](https://github.com/user-attachments/assets/968f56de-8fd6-4cb9-b2c9-14972e4b1a88)
+
 
 ### 📍 Page 1: Overview Dashboard
 
@@ -51,6 +53,8 @@ The dataset mimics real HR data from Palmora Group and includes the following fi
 - ✅ **Pie Chart** for gender ratio (50.4% Male, 49.6% Female)
 - ✅ **Departmental Salary Distribution** – comparison across 12 departments
 - ✅ **Filters** for Gender, Department, and Rating
+  
+https://drive.google.com/open?id=1Z2gVrTlrZNL1BAHyA13i1TP2yzZclcbR&usp=drive_fs
 
 ### 📍 Page 2: Performance Dashboard
 
